@@ -32,7 +32,7 @@ For convenience, an executable version of the WiFi Analyzer Tool is available fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/quyanhnguyen/Wifi-Analyzer-Tool.git
+   git clone https://github.com/James7688/Wifi-Analyzer-Tool.git
    cd WiFi-Analyzer-Tool
 
 ### CREDIT:
