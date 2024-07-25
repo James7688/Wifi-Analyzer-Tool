@@ -21,7 +21,7 @@ Before running the source code, ensure you have the following installed:
 
 ### Downloading the Executable
 
-For convenience, an executable version of the WiFi Analyzer Tool is available for Windows users. You can download the `.exe` file from the [releases page](https://github.com/James7688/Wifi-Analyzer-Tool/blob/main/Wifi%20Analyzer%20Tool.exe).
+For convenience, an executable version of the WiFi Analyzer Tool is available for Windows users. You can download the `.exe` file from the [download page](https://github.com/James7688/Wifi-Analyzer-Tool/blob/main/Wifi%20Analyzer%20Tool.exe).
 
 ### Running the Executable
 
